@@ -1,5 +1,8 @@
 # csc-340-first-order-logic
 
+You will need the library pytholog 2.4.1
+`pip install pytholog`
+
 ## Part 1
 Follow along in class with the Kings() and Kinship() functions
 
