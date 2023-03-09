@@ -11,16 +11,21 @@ On your own create the kb for Animals()
 
 Include in your axioms:
 
-all mammals are animals
-all felines are mammals
-all cats are feline
-all lions are feline
-all canines are mammals
-all dogs are canines
-all wolves are canines
-all reptiles are animals
-all turtles are reptiles.
+* mammals are animals
+* felines are mammals
+* cats are feline
+* lions are feline
+* canines are mammals
+* dogs are canines
+* wolves are canines
+* reptiles are animals
+* turtles are reptiles.
 
-Remember: for prolog to work, all final facts will have to have one term, create at least one instance of dog, wolf, cat, lion, and turtle.
+Remember: create at least one instance of dog, wolf, cat, lion, and turtle.
+(ex: `dog(fido)`)
 
 Create an Ask Section that determines:
+* whether your turtle is an animal
+* whether you dog is a canine
+* lists all animals
+* lists all mammals
